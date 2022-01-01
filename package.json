@@ -1,0 +1,23 @@
+{
+  "name": "discord-quest",
+  "version": "1.0.0",
+  "description": "discord bot rpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beshalaby/Discord-Quest.git"
+  },
+  "author": "Beshalaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beshalaby/Discord-Quest/issues"
+  },
+  "homepage": "https://github.com/Beshalaby/Discord-Quest#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
